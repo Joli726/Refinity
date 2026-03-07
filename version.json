@@ -1,7 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.2.0",
   "download_url": "https://github.com/Joli726/Refinity/releases/latest",
   "changelog": [
-    "Initial release"
+    "Добавлена система секретных тем программы",
+    "Переработан интерфейс программы",
+    "Исправлены системные баги"
   ]
 }
